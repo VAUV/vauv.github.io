@@ -1,4 +1,5 @@
 # VAUV - Underwater Robotics Team Website
+[Visit VAUV Website](https://vauv.github.io/)
 
 ## Description
 
